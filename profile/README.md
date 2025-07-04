@@ -17,6 +17,6 @@
     </p>
   </div>
   <div>
-      <img src="https://cdn-uploads.huggingface.co/production/uploads/65d65a40531e0bc924f0b1a3/aINq_HQmhIlapvtseaLIs.png" alt="PictSure Logo" width="600"/>
+      <img src="https://cdn-uploads.huggingface.co/production/uploads/65d65a40531e0bc924f0b1a3/aINq_HQmhIlapvtseaLIs.png" alt="PictSure Logo" width="200"/>
     </div>
 </div>
